@@ -22,7 +22,7 @@ GUSB (beta-glucuronidase) is an enzyme found in lysosomes, which are structures 
 
 # Figures
 
-**Figure 1: Amino Acid Composition**
+**Figure 1:** Amino Acid Composition
 
 <img width="2400" height="1350" alt="GUSB_amino_acid_composition" src="https://github.com/user-attachments/assets/9e1fc23c-f805-4e8d-b215-6550777b9423" />
 
