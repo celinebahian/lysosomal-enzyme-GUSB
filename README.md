@@ -1,4 +1,4 @@
-# lysosomal-enzyme-GUSB
+# Lysosomal-enzyme-GUSB
 
 **Name:** Bahian, Celine R.
 
