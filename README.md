@@ -6,7 +6,7 @@
 
 **Gene Symbol:** GUSB
 
-**NCBI Protein Accession/NCBI Protein link:** NP_000172.2 (beta-glucuronidase isoform 1 precursor) 
+**NCBI Protein Accession/NCBI Protein link:** NP_000172.2 (beta-glucuronidase isoform 1 precursor) https://ncbi.nlm.nih.gov/protein/NP_000172.2?report=fasta
 
 **Date:** October 14, 2026
 
