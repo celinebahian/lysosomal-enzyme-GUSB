@@ -20,11 +20,31 @@ GUSB (beta-glucuronidase) is an enzyme found in lysosomes, which are structures 
 
 - **Normal Function:** GUSB (beta-glucuronidase) breaks down glycosaminoglycans, including heparan sulfate, dermatan sulfate, and chondroitin sulfate, inside lysosomes by removing terminal beta-glucuronic acid residues.
 
-# Figures
+# Amino Acid Composition
+The protein sequence analysis revealed that leucine (L), glycine (G), alanine (A), proline (P), and serine (S) are the five most abundant amino acids in the GUSB protein.
+
+| Amino Acid | Count | Percent (%) |
+|---|---:|---:|
+| Leucine (L) | 65 | 9.98 |
+| Valine (V) | 51 | 7.83 |
+| Glycine (G) | 43 | 6.61 |
+| Serine (S) | 42 | 6.45 |
+| Alanine (A) | 38 | 5.84 |
 
 **Figure 1:** Amino Acid Composition
 
 <img width="2400" height="1350" alt="GUSB_amino_acid_composition" src="https://github.com/user-attachments/assets/9e1fc23c-f805-4e8d-b215-6550777b9423" />
+
+# Potential N-Glycosylation Sites
+
+Sequence analysis identified three potential N-linked glycosylation motifs. These motifs follow the consensus sequence N-X-S/T, where X represents any amino acid except proline.
+
+| **Position** | **Motif** | **Potential glycosylation site** |
+| ------------ | --------- | -------------------------------- |
+| 173          | NNT       | Asparagine at position 173       |
+| 272          | NGT       | Asparagine at position 272       |
+| 420          | NVS       | Asparagine at position 420       |
+| 631          | NFT       | Asparagine at position 631       |
 
 **Figure 2:** Potential N-Glycosylation Motifs
 
