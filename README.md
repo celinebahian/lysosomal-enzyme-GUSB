@@ -46,7 +46,7 @@ Sequence analysis identified three potential N-linked glycosylation motifs. Thes
 | 173          | NNT       | Asparagine at position 173       |
 | 272          | NGT       | Asparagine at position 272       |
 | 420          | NVS       | Asparagine at position 420       |
-| 631          | NFT       | Asparagine at position 631       |
+| 631          | NET       | Asparagine at position 631       |
 
 # Figure 2: Potential N-Glycosylation Motifs
 
