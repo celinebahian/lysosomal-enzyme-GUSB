@@ -31,9 +31,11 @@ The protein sequence analysis revealed that leucine (L), glycine (G), alanine (A
 | Serine (S) | 42 | 6.45 |
 | Alanine (A) | 38 | 5.84 |
 
-**Figure 1:** Amino Acid Composition
+# Figure 1: Amino Acid Composition
 
 <img width="2400" height="1350" alt="GUSB_amino_acid_composition" src="https://github.com/user-attachments/assets/9e1fc23c-f805-4e8d-b215-6550777b9423" />
+
+**Figure 1. Amino acid composition of the GUSB protein showing the count of each amino acid in the sequence. Leucine (L) is the most abundant amino acid, followed by valine (V), glycine (G), serine (S), and alanine (A).*
 
 # Potential N-Glycosylation Sites
 
@@ -46,9 +48,11 @@ Sequence analysis identified three potential N-linked glycosylation motifs. Thes
 | 420          | NVS       | Asparagine at position 420       |
 | 631          | NFT       | Asparagine at position 631       |
 
-**Figure 2:** Potential N-Glycosylation Motifs
+# Figure 2: Potential N-Glycosylation Motifs
 
 <img width="2400" height="990" alt="GUSB_potential_N_glycosylation" src="https://github.com/user-attachments/assets/acf672b0-7d67-448e-ac09-c974d5d903e0" />
+
+**Figure 2. GUSB protein sequence showing the positions of four potential N-linked glycosylation motifs (N-X-S/T), located at amino acid positions 173, 272, 420, and 631. These motifs are potential glycosylation sites, but their presence does not confirm that glycosylation occurs.*
 
 ## Review Questions & Answers
 
