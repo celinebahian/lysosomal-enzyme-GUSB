@@ -21,7 +21,7 @@ GUSB (beta-glucuronidase) is an enzyme found in lysosomes, which are structures 
 - **Normal Function:** GUSB (beta-glucuronidase) breaks down glycosaminoglycans, including heparan sulfate, dermatan sulfate, and chondroitin sulfate, inside lysosomes by removing terminal beta-glucuronic acid residues.
 
 # Amino Acid Composition
-The protein sequence analysis revealed that leucine (L), glycine (G), alanine (A), proline (P), and serine (S) are the five most abundant amino acids in the GUSB protein.
+The protein sequence analysis revealed that leucine (L), glycine (G), alanine (A), valine (V), and serine (S) are the five most abundant amino acids in the GUSB protein.
 
 | Amino Acid | Count | Percent (%) |
 |---|---:|---:|
