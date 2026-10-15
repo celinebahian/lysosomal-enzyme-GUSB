@@ -10,7 +10,7 @@
 
 <img width="738" height="500" alt="image" src="https://github.com/user-attachments/assets/dd1e8312-b205-4331-a163-6903c8ec0cd5" />
 
-**Figure 3.** Installing and checking the required R packages (rentrez and ggplot2), creating output folders for data, results, and figures, and preparing to download the human GUSB protein sequence from the NCBI Protein database using accession number NP_000172.2.
+**Figure 3.** Changing the gene name and accession number, installing and checking the required R packages (rentrez and ggplot2), creating output folders for data, results, and figures, and preparing to download the human GUSB protein sequence from the NCBI Protein database using accession number NP_000172.2.
 
 <img width="724" height="434" alt="image" src="https://github.com/user-attachments/assets/56cd5039-3791-44f9-891f-db87940dfafc" />
 <img width="671" height="379" alt="image" src="https://github.com/user-attachments/assets/991d061c-9aae-49e6-bf2f-91e6d78aeb93" />
